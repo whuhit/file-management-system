@@ -11,6 +11,7 @@
 
 # === 模板结构文件（体系的骨架）===
 !_INDEX.md
+!readme.md
 !**/_README.md
 
 # === Git 元数据 ===
